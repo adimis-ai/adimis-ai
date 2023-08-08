@@ -1,45 +1,50 @@
-# Welcome to My Futuristic AI Playground 🚀
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+</p>
 
-![Header](header_image_link_here)
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-## Hey there, fellow explorer of the future! 👋
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+</p>
 
-Welcome to my Github profile, a space where I'm weaving together lines of code to shape the world of tomorrow. Prepare yourself for an immersive journey into the realms of AI, Machine Learning, and Software Development, all wrapped up in a sleek, gradient-filled, futuristic design.
+<br/>
 
-## 🔮 Who Am I?
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
+  <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
 
-I'm a relentless dreamer, a tireless coder, and an AI enthusiast on a mission to reshape the digital landscape. My passion lies at the intersection of technology and creativity, where I blend logic and imagination to build the extraordinary.
+<br/>
 
-## 🌌 What's Inside?
-
-### 🤖 AI Wonderland
-
-Dive into the wonders of artificial intelligence. From mind-boggling neural networks to cutting-edge natural language processing, this is where machines learn to dream.
-
-### 🧠 Machine Learning Galore
-
-Unlock the secrets of machine learning algorithms. Discover how data can be transformed into intelligence, and witness the birth of predictive models that foresee the future.
-
-### 💻 Code Symphonies
-
-Experience the harmonious symphonies of code snippets. From elegant Python scripts to complex software architectures, every line tells a story of innovation and creativity.
-
-## 🎨 Futuristic Aesthetics
-
-Prepare to be captivated by the visual feast of futuristic gradients and sleek design elements that transcend time. As you navigate through my repositories, let the aesthetics amplify the excitement of the tech journey.
-
-## 🚀 Let's Connect
-
-The future is a collaborative endeavor. Let's embark on this journey together! Feel free to reach out, whether you're here to share ideas, collaborate on projects, or simply geek out about the marvels of technology.
-
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 Follow me on [Twitter](https://twitter.com/yourhandle)
-- 📷 Peek into my world on [Instagram](https://www.instagram.com/yourhandle)
-
-## 🌟 Join Me in Shaping Tomorrow
-
-The future is code, and code is the future. Join me in pushing the boundaries of possibility, transforming the abstract into reality, and sculpting a future that's as exciting as it is limitless. Together, we'll code, learn, and inspire in this futuristic adventure. Let's build the tomorrow we've envisioned today!
-
-May your lines of code be bug-free and your dreams be algorithmically generated!
-
-Cheers to the future 🚀🌌🔮
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://i.imgur.com/fnk9496.png" width="300px" /></a>
+</p>
