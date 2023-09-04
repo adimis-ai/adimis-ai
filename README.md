@@ -3,6 +3,18 @@
 
 I'm Aditya Mishra, a Software Development Engineer passionate about AI and crafting cutting-edge solutions. Explore my repositories to see how I'm pushing the boundaries of technology.
 
+<!-- Services Section -->
+## 🛠️ Services
+
+### Custom AI Agents and Tools 🤖
+I specialize in developing custom AI agents and tools tailored to your specific needs. Whether you require intelligent chatbots, recommendation systems, or other AI-driven solutions, I can design and implement them to elevate your projects.
+
+### Automations ⚙️
+Simplify and streamline your workflows with automation solutions. I create automation scripts and systems to optimize your processes, saving you time and resources.
+
+### SaaS (Software as a Service) Development ☁️
+Transform your ideas into scalable, cloud-based SaaS applications. I have experience in building SaaS platforms that provide value to users and businesses alike. Let's bring your SaaS concept to reality.
+
 <!-- Expertise Section -->
 ## 🚀 Expertise
 
@@ -38,40 +50,6 @@ I'm Aditya Mishra, a Software Development Engineer passionate about AI and craft
 - Proficient in cloud platforms:
   - AWS
   - Azure.
-
-<!-- Services Section -->
-## 🛠️ Services
-
-### Custom AI Agents and Tools 🤖
-I specialize in developing custom AI agents and tools tailored to your specific needs. Whether you require intelligent chatbots, recommendation systems, or other AI-driven solutions, I can design and implement them to elevate your projects.
-
-### Automations ⚙️
-Simplify and streamline your workflows with automation solutions. I create automation scripts and systems to optimize your processes, saving you time and resources.
-
-### SaaS (Software as a Service) Development ☁️
-Transform your ideas into scalable, cloud-based SaaS applications. I have experience in building SaaS platforms that provide value to users and businesses alike. Let's bring your SaaS concept to reality.
-
-<!-- Skills & Tools Section -->
-## 🛠️ Skills & Tools
-
-### Languages 📚
-- JavaScript
-- TypeScript
-- Python
-- C/C++
-
-### Technologies 💡
-- Backend: NodeJs, ExpressJs, Django, Flask
-- AI & NLP: Langchain, HuggingFace, TensorFlow, PyTorch
-- Databases: MongoDB, PostgreSQL, MySQL, PgVector, ElasticSearch
-- Frontend: ReactJs, NextJs, SvelteKit, TailwindCss
-
-### Deployment 🚀
-- Jenkins
-- Docker
-- Kubernetes
-- AWS
-- Azure
 
 <!-- Contact Section -->
 ## 📫 Contact Me
