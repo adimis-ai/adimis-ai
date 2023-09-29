@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-A%20I-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-green)
 
 # Welcome to my GitHub Portfolio!
 
