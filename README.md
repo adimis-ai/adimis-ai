@@ -1,6 +1,18 @@
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-green)
+![Langchain](https://img.shields.io/badge/Langchain-Expert-brightgreen)
+![Llamaindex](https://img.shields.io/badge/Llamaindex-Expert-brightgreen)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-brightgreen)
+![PyTorch](https://img.shields.io/badge/PyTorch-Expert-brightgreen)
+![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace%20Transformers-Expert-brightgreen)
+![ReactJs](https://img.shields.io/badge/ReactJs-Expert-brightgreen)
+![Angular](https://img.shields.io/badge/Angular-Expert-brightgreen)
+![NodeJs](https://img.shields.io/badge/NodeJs-Expert-brightgreen)
+![ExpressJs](https://img.shields.io/badge/ExpressJs-Expert-brightgreen)
+![NestJs](https://img.shields.io/badge/NestJs-Expert-brightgreen)
+![FastAPI](https://img.shields.io/badge/FastAPI-Expert-brightgreen)
+![Flask](https://img.shields.io/badge/Flask-Expert-brightgreen)
+![PostgreSql](https://img.shields.io/badge/PostgreSql-Expert-brightgreen)
+![MySQL](https://img.shields.io/badge/MySQL-Expert-brightgreen)
+![MongoDB](https://img.shields.io/badge/MongoDB-Expert-brightgreen)
 
 # Welcome to my GitHub Portfolio!
 
