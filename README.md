@@ -1,4 +1,4 @@
-![Langchain](https://img.shields.io/badge/Langchain-v1.2-blue)
+![Langchain](https://img.shields.io/badge/Langchain-v0.0.34-blue)
 ![Llamaindex](https://img.shields.io/badge/Llamaindex-v2.0-orange)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.5-brightgreen)
 ![PyTorch](https://img.shields.io/badge/PyTorch-v1.9-critical)
