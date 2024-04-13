@@ -25,4 +25,4 @@ My core competencies encompass the development of AI solutions using tools such 
 
 ## Get in Touch
 
-I wholeheartedly welcome collaboration to embark on extraordinary ventures. Please don't hesitate to contact me via [email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-url/). Let's create something remarkable together!
+I wholeheartedly welcome collaboration to embark on extraordinary ventures. Please don't hesitate to contact me via [email](mailto:aditya.mishra@adimis.in) or connect with me on [LinkedIn](https://www.linkedin.com/in/adimis-sde/). Let's create something remarkable together!
