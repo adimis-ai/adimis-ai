@@ -1,28 +1,105 @@
-![Langchain](https://img.shields.io/badge/Langchain-v0.0.34-blue)
-![Llamaindex](https://img.shields.io/badge/Llamaindex-v0.8.36-orange)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.5-brightgreen)
-![PyTorch](https://img.shields.io/badge/PyTorch-v1.9-critical)
-![HuggingFace Transformers](https://img.shields.io/badge/HuggingFace%20Transformers-v4.5-blueviolet)
-![ReactJs](https://img.shields.io/badge/ReactJs-v18.0-blue)
-![Angular](https://img.shields.io/badge/Angular-v16.0-red)
-![NodeJs](https://img.shields.io/badge/NodeJs-v20.7.0-green)
-![ExpressJs](https://img.shields.io/badge/ExpressJs-v4.18-yellow)
-![NestJs](https://img.shields.io/badge/NestJs-v10.2-yellowgreen)
-![FastAPI](https://img.shields.io/badge/FastAPI-v0.103-informational)
-![Flask](https://img.shields.io/badge/Flask-v2.3-lightgrey)
-![PostgreSql](https://img.shields.io/badge/PostgreSql-v16-blue)
-![MySQL](https://img.shields.io/badge/MySQL-v8.0-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-v7.0-success)
+<h1 align="center">👋 Hi, I'm <strong>Aditya Mishra</strong></h1>
 
+<p align="center">
+  <strong>Software Engineer II · Full-Stack | Backend | Automation</strong><br>
+  <a href="mailto:aditya.mishra@adimis.in">📧 aditya.mishra@adimis.in</a> · 
+  <a href="https://linkedin.com/in/adimis-sde">🔗 LinkedIn</a> · 
+  <a href="https://github.com/adimis-ai">💻 GitHub</a> · 
+  <a href="https://campaignify.ai">🌐 Portfolio (Coming Soon)</a>
+</p>
 
-# Welcome to my GitHub Portfolio!
+---
 
-I am Aditya Mishra, a Software Development Engineer, driven by a fervor for Artificial Intelligence and innovative problem-solving. My primary focus revolves around tailoring bespoke AI agents, streamlining workflows through automation, and constructing scalable cloud-based Software as a Service (SaaS) applications. Please delve into my repositories to witness firsthand how I'm pushing the boundaries of technology.
+### 🧠 **About Me**
 
-## Areas of Expertise
+Full-stack software engineer with **3+ years** of experience designing, developing, and scaling distributed systems for **US-based enterprises**.  
+Expertise in **Python (Django, FastAPI)** and **React/TypeScript** within **AWS-native, containerized environments**.  
+Focused on **automation, intelligent data collection**, and **AI-driven backend systems** for marketing, analytics, and research.  
+Delivering **multi-tenant SaaS platforms** with **99.9% uptime**, **40% faster releases**, and clean, maintainable, test-driven codebases.
 
-My core competencies encompass the development of AI solutions using tools such as Langchain, Llamaindex, TensorFlow, PyTorch, and HuggingFace Transformers. Additionally, I have a profound understanding of Natural Language Processing (NLP) techniques. On the other end of the spectrum, I possess proficiency in full-stack development, encompassing frontend technologies like ReactJs and Angular, as well as backend technologies such as NodeJs, ExpressJs, NestJs, FastAPI, and Flask. For database management, I work with PostgreSql and MySQL for relational databases and MongoDB for non-relational databases.
+---
 
-## Get in Touch
+### 🏢 **Current Role**
+**Software Engineer II · Eon Collective (Connecticut, USA)**  
+_Remote · Oct 2023 – Present_  
+- Architecting the **ADEPT Platform**, a metadata-driven modernization tool for enterprise data systems.  
+- Built **multi-tenant SSO** and CI/CD pipelines reducing release time by **40%**.  
+- 90%+ test coverage across **unit, integration, and E2E** suites.  
 
-I wholeheartedly welcome collaboration to embark on extraordinary ventures. Please don't hesitate to contact me via [email](mailto:aditya.mishra@adimis.in) or connect with me on [LinkedIn](https://www.linkedin.com/in/adimis-sde/). Let's create something remarkable together!
+**Stack:** Django · React (TypeScript) · Docker · Kubernetes · AWS · Neo4j · PostgreSQL · Grafana  
+
+---
+
+### 🧩 **Open Source Projects**
+
+#### 🧱 [Campaignify Core](https://github.com/adimis-ai/campaignify-core)
+> A modular Python framework for **scalable automation, scraping, and ETL orchestration**.  
+> Provides reusable abstractions for **data collection**, **actor orchestration**, and **pipeline integration**.  
+> **Tech:** Python · FastAPI · AsyncIO · Docker  
+
+_Target Audience:_ Backend engineers, data automation specialists, AI developers.  
+
+---
+
+#### 🕸️ [Campaignify Actors](https://github.com/adimis-ai/campaignify-actors)
+> A curated suite of **Apify-based web scrapers and data collectors** for LinkedIn, X (Twitter), and e-commerce platforms.  
+> Enables **structured entity extraction** for people, posts, jobs, and companies.  
+> **Tech:** Node.js · TypeScript · Apify SDK · Playwright  
+
+_Target Audience:_ Data engineers, recruiters, and market-intelligence teams.  
+
+---
+
+#### 🧠 [Campaignify Studio](https://github.com/adimis-ai/campaignify-studio)  
+> [🌐 Live Demo → Coming Soon](https://campaignify.ai)  
+> An **AI-powered control panel** built on **CopilotKit, LangGraph, and LangChain**.  
+> Centralized **automation dashboard (AG-UI)** for managing scrapers, analytics, and outreach.  
+> **Tech:** React · FastAPI · LangChain · CopilotKit · AWS  
+
+_Target Audience:_ Freelancers, digital agencies, and SaaS builders managing marketing automation.  
+
+---
+
+### ⚙️ **Tech Stack**
+
+| Domain | Technologies |
+|--------|---------------|
+| **Backend** | Django · FastAPI · REST API · PostgreSQL · Neo4j · Celery |
+| **Frontend** | React · TypeScript · Next.js · Redux · Tailwind · Electron |
+| **Automation / AI** | LangChain · LangGraph · CrewAI · OpenAI APIs |
+| **Cloud / DevOps** | AWS (ECS, EKS, Lambda) · Docker · Kubernetes · CI/CD · Grafana |
+| **Testing** | Pytest · Jest · Playwright · Selenium · Coverage 90%+ |
+| **Principles** | SOLID · DRY · OOP · Secure Coding · Microservices |
+
+---
+
+### 🎓 **Education**
+**B.Tech in Computer Science & Engineering**  
+Swami Keshvanand Institute of Technology (SKIT), Jaipur  
+_Rajasthan Technical University · NAAC A++ · Graduated 2023_
+
+---
+
+### 📊 **GitHub Insights**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adimis-ai&show_icons=true&theme=react&hide_border=true" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adimis-ai&theme=react&hide_border=true" height="150">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adimis-ai&layout=compact&theme=react&hide_border=true" height="150">
+</p>
+
+---
+
+### 💬 **Let's Connect**
+
+💼 Open to collaborations in **automation, AI agents, backend architecture, or full-stack systems.**  
+📧 Reach out via [aditya.mishra@adimis.in](mailto:aditya.mishra@adimis.in) or message me on [LinkedIn](https://linkedin.com/in/adimis-sde).
+
+---
+
+<p align="center">
+  <sub>“Code simplicity is the ultimate sophistication.” — Leonardo da Vinci (paraphrased for engineers)</sub>
+</p>
