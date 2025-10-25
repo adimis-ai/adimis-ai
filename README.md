@@ -23,29 +23,6 @@ I enjoy turning repetitive workflows into **self-operating, resilient systems** 
 
 ---
 
-### 🧩 Featured Open Source Projects
-
-#### 🧱 [Campaignify Core](https://github.com/adimis-ai/campaignify-core)
-> A Python library for **automation and scraping frameworks**.  
-> Provides plug-and-play abstractions for data collection, actor orchestration, and ETL workflows.  
-> **Tech:** Python · FastAPI · AsyncIO · Docker  
-
----
-
-#### 🕸️ [Campaignify Actors](https://github.com/adimis-ai/campaignify-actors)
-> A collection of **Apify-based scrapers** for LinkedIn, X (Twitter), and e-commerce sites.  
-> Built for structured extraction of posts, jobs, companies, and profiles.  
-> **Tech:** Node.js · TypeScript · Apify SDK · Playwright  
-
----
-
-#### 🧠 [Campaignify Studio](https://github.com/adimis-ai/campaignify-studio)  
-> [🌐 Live Demo → Coming Soon](https://campaignify.in)  
-> An **AI-powered control panel** for managing Campaignify’s actors, data analytics, and outreach.  
-> **Tech:** React · FastAPI · LangChain · CopilotKit · AWS  
-
----
-
 ### 🧰 Tech Stack Snapshot
 
 | Area | Tools I Use |
@@ -55,14 +32,6 @@ I enjoy turning repetitive workflows into **self-operating, resilient systems** 
 | **Automation / AI** | LangChain · LangGraph · CrewAI · OpenAI APIs |
 | **Cloud / DevOps** | AWS · Docker · Kubernetes · CI/CD |
 | **Testing** | Pytest · Jest · Playwright |
-
----
-
-### 🚀 What I'm Building Next
-
-- **Campaignify Studio Live Demo** — an AI control hub for automation & outreach.  
-- **AgentOps Framework** — plug-in layer for managing multi-agent coordination and error recovery.  
-- **Infra Patterns for LangChain** — reference templates for production-grade deployment.
 
 ---
 
@@ -78,11 +47,6 @@ If you’re building something ambitious in **automation, SaaS, or AI infrastruc
 Reach me at [aditya.mishra@adimis.in](mailto:aditya.mishra@adimis.in) or connect via [LinkedIn](https://linkedin.com/in/adimis-sde).
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adimis-ai&show_icons=true&theme=react&hide_border=true" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adimis-ai&theme=react&hide_border=true" height="150">
-</p>
 
 <p align="center">
   <sub>“Automate what bores you. Scale what excites you.”</sub>
