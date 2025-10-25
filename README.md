@@ -4,7 +4,7 @@
   <strong>Building automation, AI-driven systems, and full-stack products that scale.</strong><br>
   <a href="https://github.com/adimis-ai">💻 GitHub</a> · 
   <a href="https://linkedin.com/in/adimis-sde">🔗 LinkedIn</a> · 
-  <a href="mailto:aditya.mishra@adimis.in">📧 aditya.mishra@adimis.in</a> · 
+  <a href="mailto:adimis.sde@gmail.com">📧 adimis.sde@gmail.com</a> · 
   <a href="https://campaignify.ai">🌐 campaignify.in (Coming Soon)</a>
 </p>
 
@@ -44,7 +44,7 @@ I’m open to:
 ✅ Backend architecture & scaling advisory  
 
 If you’re building something ambitious in **automation, SaaS, or AI infrastructure**, I’d love to talk.  
-Reach me at [aditya.mishra@adimis.in](mailto:aditya.mishra@adimis.in) or connect via [LinkedIn](https://linkedin.com/in/adimis-sde).
+Reach me at [adimis.sde@gmail.com](mailto:adimis.sde@gmail.com) or connect via [LinkedIn](https://linkedin.com/in/adimis-sde).
 
 ---
 
