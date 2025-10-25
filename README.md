@@ -1,86 +1,83 @@
-<h1 align="center">👋 Hi, I'm <strong>Aditya Mishra</strong></h1>
+<h1 align="center">👋 Hey, I'm <strong>Aditya Mishra</strong></h1>
 
 <p align="center">
-  <strong>Software Engineer II · Full-Stack | Backend | Automation</strong><br>
-  <a href="mailto:aditya.mishra@adimis.in">📧 aditya.mishra@adimis.in</a> · 
-  <a href="https://linkedin.com/in/adimis-sde">🔗 LinkedIn</a> · 
+  <strong>Building automation, AI-driven systems, and full-stack products that scale.</strong><br>
   <a href="https://github.com/adimis-ai">💻 GitHub</a> · 
-  <a href="https://campaignify.ai">🌐 Portfolio (Coming Soon)</a>
+  <a href="https://linkedin.com/in/adimis-sde">🔗 LinkedIn</a> · 
+  <a href="mailto:aditya.mishra@adimis.in">📧 aditya.mishra@adimis.in</a> · 
+  <a href="https://campaignify.ai">🌐 campaignify.in (Coming Soon)</a>
 </p>
 
 ---
 
-### 🧠 **About Me**
+### ⚡ What I Do
 
-Full-stack software engineer with **3+ years** of experience designing, developing, and scaling distributed systems for **US-based enterprises**.  
-Expertise in **Python (Django, FastAPI)** and **React/TypeScript** within **AWS-native, containerized environments**.  
-Focused on **automation, intelligent data collection**, and **AI-driven backend systems** for marketing, analytics, and research.  
-Delivering **multi-tenant SaaS platforms** with **99.9% uptime**, **40% faster releases**, and clean, maintainable, test-driven codebases.
+I design and build **automation-first, data-intelligent, and cloud-native systems**.  
+My current focus areas:  
+- **Full-Stack Engineering:** Django, FastAPI, React, TypeScript  
+- **Automation & Agents:** LangChain, LangGraph, CrewAI, Playwright  
+- **Infrastructure:** AWS, Docker, Kubernetes, CI/CD  
+- **AI Workflow Design:** multi-agent systems, orchestration, and data pipelines  
 
----
-
-### 🏢 **Current Role**
-**Software Engineer II · Eon Collective (Connecticut, USA)**  
-_Remote · Oct 2023 – Present_  
-- Architecting the **ADEPT Platform**, a metadata-driven modernization tool for enterprise data systems.  
-- Built **multi-tenant SSO** and CI/CD pipelines reducing release time by **40%**.  
-- 90%+ test coverage across **unit, integration, and E2E** suites.  
-
-**Stack:** Django · React (TypeScript) · Docker · Kubernetes · AWS · Neo4j · PostgreSQL · Grafana  
+I enjoy turning repetitive workflows into **self-operating, resilient systems** that scale with minimal human input.
 
 ---
 
-### 🧩 **Open Source Projects**
+### 🧩 Featured Open Source Projects
 
 #### 🧱 [Campaignify Core](https://github.com/adimis-ai/campaignify-core)
-> A modular Python framework for **scalable automation, scraping, and ETL orchestration**.  
-> Provides reusable abstractions for **data collection**, **actor orchestration**, and **pipeline integration**.  
+> A Python library for **automation and scraping frameworks**.  
+> Provides plug-and-play abstractions for data collection, actor orchestration, and ETL workflows.  
 > **Tech:** Python · FastAPI · AsyncIO · Docker  
-
-_Target Audience:_ Backend engineers, data automation specialists, AI developers.  
 
 ---
 
 #### 🕸️ [Campaignify Actors](https://github.com/adimis-ai/campaignify-actors)
-> A curated suite of **Apify-based web scrapers and data collectors** for LinkedIn, X (Twitter), and e-commerce platforms.  
-> Enables **structured entity extraction** for people, posts, jobs, and companies.  
+> A collection of **Apify-based scrapers** for LinkedIn, X (Twitter), and e-commerce sites.  
+> Built for structured extraction of posts, jobs, companies, and profiles.  
 > **Tech:** Node.js · TypeScript · Apify SDK · Playwright  
-
-_Target Audience:_ Data engineers, recruiters, and market-intelligence teams.  
 
 ---
 
 #### 🧠 [Campaignify Studio](https://github.com/adimis-ai/campaignify-studio)  
-> [🌐 Live Demo → Coming Soon](https://campaignify.ai)  
-> An **AI-powered control panel** built on **CopilotKit, LangGraph, and LangChain**.  
-> Centralized **automation dashboard (AG-UI)** for managing scrapers, analytics, and outreach.  
+> [🌐 Live Demo → Coming Soon](https://campaignify.in)  
+> An **AI-powered control panel** for managing Campaignify’s actors, data analytics, and outreach.  
 > **Tech:** React · FastAPI · LangChain · CopilotKit · AWS  
 
-_Target Audience:_ Freelancers, digital agencies, and SaaS builders managing marketing automation.  
-
 ---
 
-### ⚙️ **Tech Stack**
+### 🧰 Tech Stack Snapshot
 
-| Domain | Technologies |
-|--------|---------------|
-| **Backend** | Django · FastAPI · REST API · PostgreSQL · Neo4j · Celery |
-| **Frontend** | React · TypeScript · Next.js · Redux · Tailwind · Electron |
+| Area | Tools I Use |
+|------|--------------|
+| **Backend** | Django · FastAPI · PostgreSQL · Neo4j |
+| **Frontend** | React · TypeScript · Next.js · Tailwind |
 | **Automation / AI** | LangChain · LangGraph · CrewAI · OpenAI APIs |
-| **Cloud / DevOps** | AWS (ECS, EKS, Lambda) · Docker · Kubernetes · CI/CD · Grafana |
-| **Testing** | Pytest · Jest · Playwright · Selenium · Coverage 90%+ |
-| **Principles** | SOLID · DRY · OOP · Secure Coding · Microservices |
+| **Cloud / DevOps** | AWS · Docker · Kubernetes · CI/CD |
+| **Testing** | Pytest · Jest · Playwright |
 
 ---
 
-### 🎓 **Education**
-**B.Tech in Computer Science & Engineering**  
-Swami Keshvanand Institute of Technology (SKIT), Jaipur  
-_Rajasthan Technical University · NAAC A++ · Graduated 2023_
+### 🚀 What I'm Building Next
+
+- **Campaignify Studio Live Demo** — an AI control hub for automation & outreach.  
+- **AgentOps Framework** — plug-in layer for managing multi-agent coordination and error recovery.  
+- **Infra Patterns for LangChain** — reference templates for production-grade deployment.
 
 ---
 
-### 📊 **GitHub Insights**
+### 🤝 Let's Collaborate
+
+I’m open to:  
+✅ Freelance & consulting projects  
+✅ Joint OSS development  
+✅ Automation, scraping, or AI system design  
+✅ Backend architecture & scaling advisory  
+
+If you’re building something ambitious in **automation, SaaS, or AI infrastructure**, I’d love to talk.  
+Reach me at [aditya.mishra@adimis.in](mailto:aditya.mishra@adimis.in) or connect via [LinkedIn](https://linkedin.com/in/adimis-sde).
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adimis-ai&show_icons=true&theme=react&hide_border=true" height="150">
@@ -88,18 +85,5 @@ _Rajasthan Technical University · NAAC A++ · Graduated 2023_
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adimis-ai&layout=compact&theme=react&hide_border=true" height="150">
-</p>
-
----
-
-### 💬 **Let's Connect**
-
-💼 Open to collaborations in **automation, AI agents, backend architecture, or full-stack systems.**  
-📧 Reach out via [aditya.mishra@adimis.in](mailto:aditya.mishra@adimis.in) or message me on [LinkedIn](https://linkedin.com/in/adimis-sde).
-
----
-
-<p align="center">
-  <sub>“Code simplicity is the ultimate sophistication.” — Leonardo da Vinci (paraphrased for engineers)</sub>
+  <sub>“Automate what bores you. Scale what excites you.”</sub>
 </p>
