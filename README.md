@@ -4,7 +4,7 @@
   <strong>Building automation, AI-driven systems, and full-stack products that scale.</strong><br>
   <a href="https://github.com/adimis-ai">💻 GitHub</a> · 
   <a href="https://linkedin.com/in/adimis-sde">🔗 LinkedIn</a> · 
-  <a href="mailto:adimis.sde@gmail.com">📧 adimis.sde@gmail.com</a> · 
+  <a href="mailto:adimis.sde@gmail.com">📧 adimis.sde@gmail.com</a>
 </p>
 
 ---
