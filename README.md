@@ -5,7 +5,6 @@
   <a href="https://github.com/adimis-ai">💻 GitHub</a> · 
   <a href="https://linkedin.com/in/adimis-sde">🔗 LinkedIn</a> · 
   <a href="mailto:adimis.sde@gmail.com">📧 adimis.sde@gmail.com</a> · 
-  <a href="https://campaignify.ai">🌐 campaignify.in (Coming Soon)</a>
 </p>
 
 ---
