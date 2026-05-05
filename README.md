@@ -46,13 +46,6 @@ I build complete software products from "idea" to "launch" for founders and busi
 ![Claude](https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=for-the-badge&logo=anthropic)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=adimis-ai&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats report" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adimis-ai&layout=compact&theme=dark&hide_border=true" height="150" alt="languages report" />
-</p>
 
 ---
 
